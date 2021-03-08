@@ -10,12 +10,9 @@ has_children: false
 Wrecklabz iz auzome!
 
 [Setup Guide](/setup){: .btn} 
-[Release Notes](https://github.com/meteyou/mainsail/releases){: .btn}{:target="_blank"}
+[Release Notes](){: .btn}{:target="_blank"}
 
 For support join us on Discord, or open an issue on Github.
 
-[Discord](https://discord.gg/skWTwTD){: .btn}{:target="_blank"}
-[Github](https://github.com/meteyou/mainsail){: .btn}{:target="_blank"}
-
-## Screenshots
-![Dashboard](assets/img/logo.png)
+[Discord](https://discord.gg){: .btn}{:target="_blank"}
+[Github](https://github.com/wreck-lab){: .btn}{:target="_blank"}
