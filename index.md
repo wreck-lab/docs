@@ -10,7 +10,6 @@ has_children: false
 Wrecklabz iz auzome!
 
 [Setup Guide](/setup){: .btn} 
-[Release Notes](){: .btn}{:target="_blank"}
 
 For support join us on Discord, or open an issue on Github.
 
