@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 # Build settings
-logo: "assets/img/logo.png"
+logo: "assets/img/logo_icon_text.png"
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
