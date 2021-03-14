@@ -43,6 +43,20 @@ defaults:
     values:
       image: assets/img/rtfm.png
 
+
+collections:
+  # Define a collection named "docs", its documents reside in the "_docs" directory
+  manuals:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    manuals:
+      name: Manuals
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
