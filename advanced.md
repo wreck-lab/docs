@@ -13,4 +13,4 @@ Here a short list of the some common topics:
 - the [endstop phase detection](https://github.com/KevinOConnor/klipper/blob/master/docs/Endstop_Phase.md) algorithm which greatly improves the accuracy of the end stop switches. This aspect is very critical for Delta printers to achieve consistent first layers
 - the [Delta Calibration Procedure](https://github.com/KevinOConnor/klipper/blob/master/docs/Delta_Calibrate.md) documentation
 - the [Bed Levelling Procedure](https://github.com/KevinOConnor/klipper/blob/master/docs/Bed_Level.md) documentation
-- the [sensorless homing]() supported by the printHAT. If you are willing to activate it follow the [instructions]. Not recommend for Delta printers due to the lower accuracy compared to regular end-stop switches.
+- the [sensorless homing](https://www.klipper3d.org/TMC_Drivers.html) supported by the printHAT. If you are willing to activate it follow the Klipper instructions at the link provided. Not recommend for Delta printers due to the lower accuracy compared to regular end-stop switches.
