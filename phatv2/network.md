@@ -4,7 +4,6 @@ parent: printHAT V2 Manual
 title: Connect to OctoPrint
 nav_order: 4
 has_children: false
-permalink: /phatv2/network/
 ---
 
 The printHAT can be connected to your home network via Wi-Fi or LAN. Upon start up, if the Raspberry Pi can't find a network to connect it will generate its own hot-spot.

@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Setup Wi-fi
+parent: printHAT V1 Manual
+title: Connect the
 nav_order: 3
-has_children: false
-permalink: /phat_v1_manual/setup_wifi/
-has_toc: true
 ---
 
 If you would like to configure the Raspberry PI to connect to your wi-fi, this is the right time to do it.

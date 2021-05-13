@@ -1,10 +1,9 @@
 ---
 layout: default
+parent: printHAT V1 Manual
 title: Requirements
 nav_order: 2
 has_children: false
-permalink: /phatv1/requirements/
-has_toc: true
 ---
 
 Make sure to check out our YouTube channel where you can find tutorials to guide you trough the process! Let’s start now, what you need:
