@@ -15,6 +15,8 @@ Klipper comes pre-configured for a cartesian printer. The configuration can be c
 
 The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the available templates.
 
+![klipper-config](../assets/img/klipper-settings.png)
+
 ## Configuration File
 The configuration file contains few sections that need to be updated. Some sections are general and are described described below.
 Some others are specific to a your 3D printer architecture and are described in the next steps (pick the one that matches your printer type)
