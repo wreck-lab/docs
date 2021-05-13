@@ -2,7 +2,7 @@
 layout: default
 parent: printHAT V2 Manual
 title: Requirements
-nav_order: 3
+nav_order: 1
 has_children: false
 permalink: /phatv2/requirements/
 ---

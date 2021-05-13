@@ -2,7 +2,7 @@
 layout: default
 parent: printHAT V1 Manual
 title: Requirements
-nav_order: 2
+nav_order: 1
 has_children: false
 ---
 
