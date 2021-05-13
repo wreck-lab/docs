@@ -3,7 +3,7 @@ layout: default
 title: Requirements
 nav_order: 2
 has_children: false
-#permalink: /phat_v1_manual/requirements/
+permalink: /phatv1/requirements/
 has_toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: printHAT V2 Manual
 title: Connect the printer
 nav_order: 3
 has_children: false

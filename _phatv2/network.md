@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: printHAT V2 Manual
 title: Connect to OctoPrint
 nav_order: 4
 has_children: false
