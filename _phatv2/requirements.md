@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: printHAT V2 Manual
 title: Requirements
 nav_order: 2
 has_children: false
