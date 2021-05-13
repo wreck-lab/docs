@@ -2,16 +2,16 @@
 layout: default
 title: Welcome
 nav_order: 1
-has_children: false
+has_children: true
 ---
 
-# Welcome to the Wrecklab docs!
+# Welcome to Wrecklab documentation
 
-Wrecklabz iz auzome!
+This is the support page for the Wrecklab's printHAT boards
+Continue to one of the following channels to find manuals, tutorials or support from the community
 
-[Setup Guide](/setup){: .btn} 
 
-For support join us on Discord, or open an issue on Github.
-
-[Discord](https://discord.gg){: .btn}{:target="_blank"}
-[Github](https://github.com/wreck-lab){: .btn}{:target="_blank"}
+[Manual printHAT V1](/phatv1){: .btn .btn-outline }
+[Manual printHAT V2](/phatv2){: .btn .btn-outline }
+[Github](https://github.com/wreck-lab){: .btn .btn-outline }{:target="_blank"}
+[YouTube](https://www.youtube.com/channel/UCr8c4zjJT7NnsBhNiCOiJDA){: .btn .btn-outline }{:target="_blank"}
