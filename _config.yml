@@ -44,24 +44,23 @@ defaults:
       image: assets/img/rtfm.png
 
 
-collections:
+#collections:
   # Define collections  organized by product (e.g. "phatv1", its documents reside in the "_phatv1" directory
-  phatv1:
-    permalink: "/:collection/:path/"
-    output: true
-  phatv2:
-    permalink: "/:collection/:path/"
-    output: true
+#  phatv1:
+#    permalink: "/:collection/:path/"
+#    output: true
+#  phatv2:
+#    permalink: "/:collection/:path/"
+#    output: true
 
-just_the_docs:
+#just_the_docs:
   # Define which collections are used in just-the-docs
-  collections:
+#  collections:
     # Reference the products collection
-    phatv1:
-      name: printHAT V1
-      nav_exclude: true
-    phatv2:
-      name: printHAT V2
+#    phatv1:
+#      name: printHAT V1
+#    phatv2:
+#      name: printHAT V2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
