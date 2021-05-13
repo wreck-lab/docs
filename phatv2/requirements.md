@@ -15,7 +15,7 @@ Let's start with a list of things you need:
 
 If you use a Raspberry Pi 4, we strongly recommend you use forced air cooling to cool both the Pi and printHAT.
 
-# Let’s Get Started
+## Let’s Get Started
 Download the SD image from the [official repository](https://github.com/wreck-lab/printHAT/releases) and use [Etcher](https://www.balena.io/etcher/) to flash the image onto the the SD card as recommended in the Raspberry Pi [official documentation](https://www.raspberrypi.org/documentation/installation/installing-images/). In short:
 
 1. Download Etcher and install it
