@@ -45,17 +45,22 @@ defaults:
 
 
 collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  manuals:
+  # Define collections  organized by product (e.g. "phatv1", its documents reside in the "_phatv1" directory
+  phatv1:
+    permalink: "/:collection/:path/"
+    output: true
+  phatv2:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    # Reference the "docs" collection
-    manuals:
-      name: Manuals
+    # Reference the products collection
+    phatv1:
+      name: printHAT V1
+    phatv2:
+      name: printHAT V2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
