@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: hostname
 nav_order: 1
-has_children: true
+permalink: /
 ---
 
 # Welcome to Wrecklab documentation
