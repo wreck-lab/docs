@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Extra
+grand_parent: printHAT V2 Manual
 title: SPI port
 nav_order: 2
 has_children: false

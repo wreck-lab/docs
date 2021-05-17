@@ -1,8 +1,9 @@
 ---
 layout: default
 parent: Extra
+grand_parent: printHAT V2 Manual
 title: BlTouch probe
-nav_order: 11
+nav_order: 1
 has_children: false
 ---
 
@@ -37,6 +38,6 @@ home_xy_position: 100,100 # Change coordinates to the center of your print bed
 speed: 50
 z_hop: 10                 # Move up 10mm
 z_hop_speed: 5
-```
+```  
 
 In case of troubles, you can always have a look at the official [Klipper BlTouch documentation](https://www.klipper3d.org/BLTouch.html){:target="_blank"} or get in touch with us through one of the available [support channels]().
