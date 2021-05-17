@@ -9,10 +9,12 @@ has_children: false
 ## Configure a BlTouch probe
 
 ### Wiring the probe
-The printHAT V2 is designed to be compatible with the BlTouch out of the box, which means the pinout on the GPIO and expansion ports of board match the probe connnectors with no need fo swapping wires.
+The printHAT V2 is designed to be compatible with the [Antclabs BlTouch probe](https://www.antclabs.com/bltouch-v3) out of the box, which means the pinout on the GPIO and expansion ports of board match the probe connnectors with no need fo swapping wires.
 Plug a genuine BlTouch to the printHAT according to the picture below
 
-TODO // add picture
+![bltouch-pinout](../assets/img/phatv2-pinout-bltouch.png)
+
+![bltouch-probe](../assets/img/bltouch.jpg)
 
 ### Software configuration
 Once the probe is wired to the printHAT, you can move on to modify the KLipper configuration file as follow:
