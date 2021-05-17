@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: Extra
-title: Raspberry SPI port
-nav_order: 4
+title: Raspberry I2C port
+nav_order: 3
 has_children: false
 ---
 
-## SPI port connections
-The printHAT V2 exposes one of the STM32 microcontroller SPI port. The SPI pin are made available on the J16 connectors according to the pinout shown in the picture below.
+## Raspberry I2C port connections
+The printHAT V2 exposes one of the I2C port. The SPI pin are made available on the J16 connectors according to the pinout shown in the picture below.
 
 TODO // add picture
 

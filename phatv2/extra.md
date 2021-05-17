@@ -11,3 +11,4 @@ This section covers additional, unconventional and/or more advanced topics and c
 - [BlTouch probe]()
 - [SPI port]()
 - [I2C port (Raspberry Pi)]()
+- [Standalone board]()
