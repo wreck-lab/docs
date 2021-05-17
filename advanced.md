@@ -7,7 +7,7 @@ has_children: false
 
 The [Klipper Wiki](https://github.com/KevinOConnor/klipper/blob/master/docs/Overview.md){:target="_blank"} is the starting point to learn about all the Klipper functionalities and advanced features.
 
-Here a short list of the some common topics:
+Here a short list of the most common topics:
 - all the extended functionalities are documented in the [config file reference doc](https://www.klipper3d.org/Config_Reference.html){:target="_blank"} and they can be added to the printer configuration file
 - the list of Klipper supported [commands and G-CODES](https://github.com/KevinOConnor/klipper/blob/master/docs/G-Codes.md){:target="_blank"}
 - the [endstop phase detection](https://github.com/KevinOConnor/klipper/blob/master/docs/Endstop_Phase.md){:target="_blank"} algorithm which greatly improves the accuracy of the end stop switches. This aspect is very critical for Delta printers to achieve consistent first layers
