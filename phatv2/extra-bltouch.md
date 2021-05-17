@@ -11,7 +11,7 @@ has_children: false
 
 ### Wiring the probe
 The printHAT V2 is designed to be compatible with the [Antclabs BlTouch probe](https://www.antclabs.com/bltouch-v3){:target="_blank"} out of the box, which means the pinout on the GPIO and expansion ports of board match the probe connnectors with no need fo swapping wires.
-Plug a genuine BlTouch to the printHAT according to the picture below.  
+Plug a genuine BlTouch to the printHAT according to the picture below.
 
 ![bltouch-pinout](../assets/img/phatv2_pinout_bltouch.png)
 
