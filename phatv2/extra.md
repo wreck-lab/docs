@@ -4,6 +4,7 @@ parent: printHAT V2 Manual
 title: Extra
 nav_order: 10
 has_children: true
+has_toc: false
 ---
 
 ## Additional configurations
