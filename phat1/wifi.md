@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: printHAT 1 Manual
+parent: printHAT V1 Manual
 title: Connect the
 nav_order: 3
 ---

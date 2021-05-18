@@ -1,7 +1,7 @@
 ---
 layout: default
-title: printHAT V1 Manual
+title: printHAT 1 Manual
 nav_order: 2
 has_children: true
-permalink: /phatv1/
+permalink: /phat1/
 ---

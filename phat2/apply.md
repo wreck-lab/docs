@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: printHAT V2 Manual
+parent: printHAT 2 Manual
 title: Apply configuration
 nav_order: 7
 has_children: false
