@@ -35,8 +35,8 @@ dir_pin: !PB12
 ```
 
 The **[printer]** section that you will find in your configuration file if you have selected the cartesian file. The default values should work on every machine, but can very well be adjusted:
-- max_velocity, max_accel: define the performance of the X and Y moves (in mm/s and mm/s2)
-- max_z_velocity, max_z_accel: define the performance of the Z moves (in mm/s and mm/s2)
+- **max_velocity**, **max_accel**: define the performance of the X and Y moves (in mm/s and mm/s2)
+- **max_z_velocity**, **max_z_accel**: define the performance of the Z moves (in mm/s and mm/s2)
 
 ``` py
 [printer]
