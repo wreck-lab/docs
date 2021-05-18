@@ -13,7 +13,7 @@ Klipper comes pre-configured for a cartesian printer. The configuration can be c
 - click on the “OctoKlipper” plugin
 - click on the “Klipper Configuration” Tab
 
-The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the available templates.
+The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/printHAT/tree/master/config).
 
 ![klipper-config](../assets/img/klipper-settings.png)
 
@@ -24,10 +24,10 @@ Some others are specific to a your 3D printer architecture and are described in 
 ## Extruder
 The extruder section contains also some basic parameters to be configured:
 
-- step_distance: defines the length in mm of a single step. If you are unsure check the Klipper FAQ
-- nozzle_diameter: Diameter of the nozzle orifice (in mm)
-- filament_diameter: The nominal diameter of the raw filament (in mm) as it enters the extruder
-- sensor_type: Type of sensor – this may be “EPCOS 100K B57560G104F”, “ATC Semitec 104GT-2”, “NTC 100K beta 3950”, “Honeywell 100K 135-104LAG-J01”, “NTC 100K MGB18-104F39050L32”, “AD595”, “PT100″, INA826”, “MAX6675”, “MAX31855”, “MAX31856”, or “MAX31865”
+- **step_distance**: defines the length in mm of a single step. If you are unsure check the Klipper FAQ
+- **nozzle_diameter**: Diameter of the nozzle orifice (in mm)
+- **filament_diameter**: The nominal diameter of the raw filament (in mm) as it enters the extruder
+- **sensor_type**: Type of sensor, this may be “EPCOS 100K B57560G104F”, “ATC Semitec 104GT-2”, “NTC 100K beta 3950”, “Honeywell 100K 135-104LAG-J01”, “NTC 100K MGB18-104F39050L32”, “AD595”, “PT100″, INA826”, “MAX6675”, “MAX31855”, “MAX31856”, or “MAX31865”
 
 ```py
 [extruder]
