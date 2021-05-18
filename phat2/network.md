@@ -6,7 +6,7 @@ nav_order: 4
 has_children: false
 ---
 
-The printHAT can be connected to your home network via Wi-Fi or LAN. Upon start up, if the Raspberry Pi can't find a network to connect it will generate its own hot-spot.
+The printHAT can be connected to your home network via Wi-Fi or LAN. Upon start up if the Raspberry Pi can't find a network to connect, it will generate its own hot-spot.
 
 ```text
 Install “Bonjour” to be able to easily find your Octoprint instance without having to remember
