@@ -17,7 +17,7 @@ On Linux and Mac OS the Bonjour software is already integrated. Windows users ne
 If the wi-fi details have been entered in the wpa-supplicant or the Raspberry Pi has been connected with an Ethernet cable, then it can be reached via [http://wrecklab.local/](http://wrecklab.local/)
 
 ## Hot-Spot
-The Rasperry Pi creates its own hot-spot when it doesn’t find the wi-fi network configured or when there’s no configuration. The 2.4 Ghz wireless network has the following characteristics:
+The Rasperry Pi creates its own hot-spot when it doesn’t find the wi-fi network configured or when there’s no configuration. The wireless network has the following characteristics:
 
 ```bash
 SSID: wrecklab
