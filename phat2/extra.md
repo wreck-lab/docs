@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 ## Additional configurations
-This section covers additional, unconventional and/or more advanced topics and configurations settings for the printHAT board:  
+This section covers additional, unconventional and/or more advanced topics and configurations settings for the printHAT 2 board:  
 - [BlTouch probe](extra-bltouch)
 - [SPI port](extra-spi)
 - [I2C port (Raspberry Pi)](extra-rpi-i2c)
