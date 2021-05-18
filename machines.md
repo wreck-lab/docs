@@ -9,6 +9,3 @@ The printHAT board has been designed with 3D printing application in mind and it
 
 ## Ender 3 (printHAT 1)
 If you own a Creality Ender 3 you can refer to [Teaching Tech tutorial](https://www.youtube.com/watch?v=5bIzcA8PBgY){:target="_blank"} for a walkthrough on how to set up a printHAT 1 on your machine.
-
-## Ultimaker 2+
-COMING SOON
