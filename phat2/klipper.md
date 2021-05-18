@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: printHAT V2 Manual
+parent: printHAT 2 Manual
 title: Configure Klipper
 nav_order: 5
 has_children: false

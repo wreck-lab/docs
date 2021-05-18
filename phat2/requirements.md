@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: printHAT V2 Manual
+parent: printHAT 2 Manual
 title: Requirements
 nav_order: 1
 has_children: false
@@ -9,7 +9,7 @@ permalink: /phatv2/requirements/
 
 Let's start with a list of things you need:
 
-- printHAT V2 control board
+- printHAT 2 control board
 - Raspberry Pi 0/1/2/3/4 (RPi 2/3/4 are recommended for a smooth user experience)
 - micro SD card, at least 8GB
 

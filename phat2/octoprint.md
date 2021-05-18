@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: printHAT V2 Manual
+parent: printHAT 2 Manual
 title: Configure OctoPrint
 nav_order: 8
 has_children: false
