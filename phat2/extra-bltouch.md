@@ -40,4 +40,4 @@ z_hop: 10                 # Move up 10mm
 z_hop_speed: 5
 ```  
 
-In case of troubles, you can always have a look at the official [Klipper BlTouch documentation](https://www.klipper3d.org/BLTouch.html){:target="_blank"} or get in touch with us through one of the available [support channels]().
+In case of troubles, you can always have a look at the official [Klipper BlTouch documentation](https://www.klipper3d.org/BLTouch.html){:target="_blank"} or get in touch with us through one of the available [support channels](/).
