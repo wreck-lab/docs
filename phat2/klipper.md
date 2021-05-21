@@ -17,6 +17,8 @@ The “printer.cfg” file, where the configuration parameters are stored, can b
 
 ![klipper-config](../assets/img/klipper-settings.png)
 
+After the configuration is completed, shutdown Raspberry Pi via the OctoPrint interface before installing it on the Printer.
+
 ## Configuration File
 The configuration file contains few sections that need to be updated. Some sections are general and are described described below.
 Some others are specific to a your 3D printer architecture and are described in the next steps (pick the one that matches your printer type)
