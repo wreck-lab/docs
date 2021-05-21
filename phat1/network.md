@@ -1,8 +1,8 @@
 ---
 layout: default
 parent: printHAT 1 Manual
-title: Connect the
-nav_order: 3
+title: Connect to OctoPrint
+nav_order: 4
 ---
 
 If you would like to configure the Raspberry PI to connect to your wi-fi, this is the right time to do it.
