@@ -44,7 +44,7 @@ sensor_type: ATC Semitec 104GT-2
 
 ``` py
 [heater_bed]
-heater_pin: !PA0
+heater_pin: PC2
 sensor_type: ATC Semitec 104GT-2
 sensor_pin: PB0
 pullup_resistor: 10000
