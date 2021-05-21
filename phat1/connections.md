@@ -18,4 +18,4 @@ Next, install the printHAT 1 and the Raspberry Pi on your 3D printer and connect
 *Fig.3 - printHAT 1 microcontroller pin names*
 
 
-For the installation, you can print the original Wrecklab [enclosure](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%201/step/enclosures).
+For the installation, you can print the original Wrecklab [enclosure](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%201/step/enclosures){:target="_blank"}..
