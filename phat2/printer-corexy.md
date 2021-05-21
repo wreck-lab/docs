@@ -12,7 +12,6 @@ The **[stepper]** sections requires the following parameters to be set:
 
 - **step_distance**: defines the length in mm of a single step. If you are unsure check the [Klipper FAQ](https://github.com/KevinOConnor/klipper/blob/master/docs/FAQ.md#how-do-i-calculate-the-step_distance-parameter-in-the-printer-config-file)
 - **position_endstop**: distance (in mm) between the nozzle and the bed when the nozzle is centred and touching the bed
-- **arm_length**: length (in mm) of the diagonal rod that connects this tower to the print head.
 - **dir_pin**: Specifies the stepper direction. The stepper motors direction depends on your printer configuration. The direction can be inverted adding “!” in front of the pin name. For instance, stepper_a is inverted by configuring the dir_pin to !PA6
 
 ``` py
