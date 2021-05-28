@@ -40,11 +40,11 @@ sensor_type: ATC Semitec 104GT-2
 ```
 
 ## Heated Bed (optional)
- If your machine have a heated bed, then the following section should be added to your configuration file. Make sure the sensor type matches the temperature sensor you have on your bed.
+ If your machine has a heated bed, then the following section should be added to your configuration file. Make sure the sensor type matches the temperature sensor you have on your bed.
 
 ``` py
 [heater_bed]
-heater_pin: !PA0
+heater_pin: PC2
 sensor_type: ATC Semitec 104GT-2
 sensor_pin: PB0
 pullup_resistor: 10000
