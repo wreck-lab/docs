@@ -14,5 +14,8 @@ Next, install the printHAT 2 and the Raspberry Pi on your 3D printer and connect
 ![phat2_pinout](../assets/img/phat2_pinout.png)
 *Fig.1 - printHAT 2 default pin assignment (GPx are the STM32F4 GPIO pins, PIOx are the Raspberry PI GPIO pins)*
 
+![phat2_pinout](../assets/img/phat2_gpio.png)
+*Fig.1 - printHAT 2 MCU GPIOs assignment (S:D:E:G: are stepper STEP, DIR, ENABLE and DIAG1 pin respectively, PIOx are the Raspberry PI GPIO pins)*
+
 ![phat2_led](../assets/img/phat2_pinout_led.png)
 *Fig.2 - printHAT 2 onboard LEDs*
