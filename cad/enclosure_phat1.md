@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: CAD Resources
-title: Enclosures for printHAT 1
+title: Enclosures printHAT 1
 nav_order: 1
 ---
 
@@ -12,6 +12,7 @@ The printHAT enclosure is designed to accomodate the board and the Raspberry Pi.
 | Natural cooling  | Forced cooling |
 |:-------------------------:|:-------:|
 |![alt](../assets/img/case_phat1_back.png) | ![alt](../assets/img/case_phat1_fan_back.png) |
+|[Download](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%201/cad/enclosures){:target="_blank"} | [Download](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%201/cad/enclosures){:target="_blank"} |
 
 The forced cooling version is particularly indicated for all those applications where maximum performance of the drivers is needed, either because of high printing speed or because of big motors with high motor current.  
 We recommend the use of one of the following fans:
