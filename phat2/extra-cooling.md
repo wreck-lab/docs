@@ -17,9 +17,9 @@ Depending on the performance requirements and the installation constraints on yo
 The table provides the suggested cooling option based on the configured stepper motor running current.
 
 | | Convection  | Heatsinks | Heatsinks + Forced cooling |
-| :-------------------------: | :-------------------------:|:-------:|:-------:|
-| RPi 4| up to **0.8A** | up to **0.8A** | above **0.8A** |
-| RPi 0, 2, 3 | up to **1.0A** | up to **1.0A** | above **1.0A** |
+| :------------------------- | :-------------------------:|:-------:|:-------:|
+| **RPi 4**| up to **0.8A** | up to **0.8A** | above **0.8A** |
+| **RPi Zero, 2, 3** | up to **1.0A** | up to **1.0A** | above **1.0A** |
 
 ## Natural convection
 Natural convection is an effective way of cooling the board, especially on machines that do not require high motor currents like small machines and low acceleration ones.
