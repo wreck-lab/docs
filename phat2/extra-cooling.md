@@ -29,7 +29,14 @@ It is recommended to install the board vertically, with one of the longer sides 
 The installation of the heatsinks provided with the board can improve the cooling of some fan-less setups.
 
 Since the installation once more relies on natural convection the same considerations on board orientation apply here.  
+
 The heatsinks shall be installed with their fins and channels oriented vertically to facilitate the upwards flow of the hot air, and improve cooling.
+
+> **IMPORTANT**  
+> The heatsinks must be positioned properly to prevent mechanical interference when installing the printHAT 2 on the Raspberry Pi 3 or 4.  
+Make sure that the **bottom row is installed close to the row above** and further away from the board edge.  
+Make sure that all the **heatsinks fully cover their cooling pads** on the board.  
+
 
 ![forced-cooling](../assets/img/phat2_heatsinks.png)
 
