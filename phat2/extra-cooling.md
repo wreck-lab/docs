@@ -16,9 +16,10 @@ Properly dissipating the heat is even more critical when the printHAT 2 is coupl
 Depending on the performance requirements and the installation constraints on your machine, you can choose one of the options described in the next sections.  
 The table provides the suggested cooling option based on the configured stepper motor running current.
 
-| Convection  | Heatsinks | Heatsinks + Forced cooling |
-|:-------------------------:|:-------:|:-------:|
-| up to **0.8A** | up to **0.8A** | up to **1.5A** |
+| | Convection  | Heatsinks | Heatsinks + Forced cooling |
+| :-------------------------: | :-------------------------:|:-------:|:-------:|
+| RPi 4| up to **0.8A** | up to **0.8A** | above **0.8A** |
+| RPi 0, 2, 3 | up to **1.0A** | up to **1.0A** | above **1.0A** |
 
 ## Natural convection
 Natural convection is an effective way of cooling the board, especially on machines that do not require high motor currents like small machines and low acceleration ones.
@@ -33,9 +34,9 @@ Since the installation once more relies on natural convection the same considera
 The heatsinks shall be installed with their fins and channels oriented vertically to facilitate the upwards flow of the hot air, and improve cooling.
 
 > **IMPORTANT**  
-> The heatsinks must be positioned properly to prevent mechanical interference when installing the printHAT 2 on the Raspberry Pi 3 or 4.  
-Make sure that the **bottom row is installed close to the row above** and further away from the board edge.  
-Make sure that all the **heatsinks fully cover their cooling pads** on the board.  
+> The heatsinks must be positioned properly to prevent mechanical interference when installing the printHAT 2 on a Raspberry Pi 3 or 4:  
+- Make sure that the **bottom row is installed close to the row above** and further away from the board edge.  
+- Make sure that all the **heatsinks fully cover their cooling pads** on the board.  
 
 
 ![forced-cooling](../assets/img/phat2_heatsinks.png)
