@@ -3,7 +3,7 @@ layout: default
 parent: Extra
 grand_parent: printHAT 2 Manual
 title: SPI port
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 

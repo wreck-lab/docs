@@ -3,7 +3,7 @@ layout: default
 parent: Extra
 grand_parent: printHAT 2 Manual
 title: Raspberry I2C port
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 

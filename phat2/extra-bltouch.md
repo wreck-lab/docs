@@ -3,7 +3,7 @@ layout: default
 parent: Extra
 grand_parent: printHAT 2 Manual
 title: BlTouch probe
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 
