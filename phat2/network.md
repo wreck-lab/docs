@@ -13,7 +13,7 @@ the IP address.
 and install it from [here](https://support.apple.com/kb/DL999?locale=en_US&viewlocale=en_US){:target="_blank"}. More information can be found [here](https://community.octoprint.org/t/i-cant-reach-my-octopi-under-octopi-local/210){:target="_blank"}.
 
 ## Wifi Or Ethernet
-If the wi-fi details have been entered in the wpa-supplicant or the Raspberry Pi has been connected with an Ethernet cable, then it can be reached via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
+If the wi-fi details have been entered in the wpa-supplicant ([details](https://community.octoprint.org/t/wifi-setup-and-troubleshooting/184)) or the Raspberry Pi has been connected with an Ethernet cable, then it can be reached via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
 
 ## Hot-Spot
 The Rasperry Pi creates its own hot-spot when it doesn’t find the wi-fi network configured or when there’s no configuration. The wireless network has the following characteristics:
