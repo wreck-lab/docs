@@ -2,7 +2,7 @@
 layout: default
 parent: printHAT 2 Manual
 title: Connect the printer
-nav_order: 3
+nav_order: 2
 has_children: false
 ---
 

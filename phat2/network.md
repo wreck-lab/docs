@@ -2,7 +2,7 @@
 layout: default
 parent: printHAT 2 Manual
 title: Connect to OctoPrint
-nav_order: 4
+nav_order: 3
 has_children: false
 ---
 
@@ -24,3 +24,4 @@ Password: raspberry
 ```
 
 Once you are connected to it you can reach OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
+After completing the OctoPrint wizard, it's time to shut it down and prepare to install the boards on your printer. Use the appropriate shutdown button on the top right of the Octoprint interface and wait until the Raspberry Pi LEDs shut down.
