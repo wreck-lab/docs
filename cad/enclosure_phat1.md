@@ -31,15 +31,23 @@ Enclosure and fan are assembled using the following fasteners
 | 2 | M5 T-nut | enclosure to frame |
 
 # Installation
-To mount the enclosure onto a frame, the top half of the enclosure has to be fixed first with the M5x8 screws and T-nuts. Use the Allen key through the dedicated holes on the part.
+To mount the enclosure onto a frame, the top half of the enclosure has to be installed first, using the M5x8 screws and T-nuts (Fig.1), and running the Allen key through the dedicated holes on the part.
+
+Then take the bottom half of the enclosure and the assembled printHAT 1 and Raspberry Pi and slide them together (Fig.2). The enclosure features internal slots to support the boards with no need for additional stand-off.  
+Make sure the boards slide all the way in, so that the mounting holes are aligned with the ones on the enclosure. Use two M3x30 screws and M3 nuts to secure boards and cover together.
+If you're assembling the forced cooling version mount the fan using four M3x10 screws (Fig.3).
+
+Put together the two parts sliding the bottom assembly inside the top part mounted on the frame (Fig.4). Use two M3x30 screws and M3 nuts to secure boards and top part together.  
+That's all.
 
 ![alt](../assets/img/enc_step_1.png)
-
-Take the bottom half of the enclosure and the assembled printHAT 1 and Raspberry Pi and slide them together. The enclosure features internal slots to support the boards with no need for additional stand-off. Make sure the boards slide all the way in, so that the board mounting holes are aligned with the ones on the enclosure. Use two M3x30 screws and M3 nuts to secure boards and cover together. If you're assembling the forced cooling version mount the fan using four M3x10 screws.  
+*Fig.1 - Installation of the top-half case to the frame*
 
 ![alt](../assets/img/enc_step_2.png)
-![alt](../assets/img/enc_step_3.png)
+*Fig.2 - Slide printHAT 1 and Raspberry into the bottom-half of the enclosure*
 
-Put together the two parts sliding the bottom assembly inside the top part mounted on the frame. Use two M3x30 screws and M3 nuts to secure boards and top part together. That's it.
+![alt](../assets/img/enc_step_3.png)
+*Fig.3 - Installation of the cooling fan*
 
 ![alt](../assets/img/enc_step_4.png)
+*Fig.4 - Enclosure fully installed*
