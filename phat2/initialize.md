@@ -19,11 +19,11 @@ During the first boot the wrecklabOS image takes care of installing all the requ
 
 In a short while you should be able to [connect to the Raspberry Pi](network)
 
-![phat1_assembly]()
+![phat2_assembly](../assets/img/phat2_rpi_assembly.png)
 *Fig.1 - printHAT 2 and Raspberry Pi stack alignment*
 
-![phat1_assembly]()
+![phat2_assembly](../assets/img/phat2_rpi_assembly_spacers.png)
 *Fig.2 - printHAT 2 spacers installation*
 
-![phat1_assembly]()
-*Fig.3 - printHAT 2 boot jumper detail*
+![phat2_assembly](../assets/img/phat2_rpi_jumper.png)
+*Fig.3 - printHAT 2 boot jumper location*
