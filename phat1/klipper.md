@@ -1,9 +1,8 @@
 ---
 layout: default
-parent: printHAT 2 Manual
+parent: printHAT 1 Manual
 title: Configure Klipper
 nav_order: 5
-has_children: false
 ---
 
 Klipper comes pre-configured for a cartesian printer. The configuration can be changed via the OctoPrint interface as follow:
@@ -13,11 +12,9 @@ Klipper comes pre-configured for a cartesian printer. The configuration can be c
 - click on the “OctoKlipper” plugin
 - click on the “Klipper Configuration” Tab
 
-The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/printHAT/tree/master/config){:target="_blank"}.
+The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/blob/devel/README.md#configuration-files){:target="_blank"}.
 
-![klipper-config](../assets/img/klipper-settings.png)
-
-After the configuration is completed, shutdown Raspberry Pi via the OctoPrint interface before installing it on the Printer.
+![klipper-config](../assets/img/phat1_klipper_settings.png)
 
 ## Configuration File
 The configuration file contains few sections that need to be updated. Some sections are general and are described described below.
@@ -44,7 +41,7 @@ sensor_type: ATC Semitec 104GT-2
 
 ``` py
 [heater_bed]
-heater_pin: PC2
+heater_pin: !PA0
 sensor_type: ATC Semitec 104GT-2
 sensor_pin: PB0
 pullup_resistor: 10000
