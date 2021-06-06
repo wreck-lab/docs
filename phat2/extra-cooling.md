@@ -24,7 +24,10 @@ The table provides the suggested cooling option based on the configured stepper 
 ## Natural convection
 Natural convection is an effective way of cooling the board, especially on machines that do not require high motor currents like small machines and low acceleration ones.
 
-It is recommended to install the board vertically, with one of the longer sides facing down. In this configuration the two faces of the board will get the best cooling possible, since the warm air can move upwards on both of them (on a board laying flat the bottom side is poorly cooled instead).    
+It is recommended to install the board vertically, with one of the longer sides facing down (Fig.1). In this configuration the two faces of the board will get the best cooling possible, since the warm air can move upwards on both of them (on a board laying flat the bottom side is poorly cooled instead).
+
+![convection](../assets/img/phat2_vertical.png)
+*Fig.1 - printHAT 2 and Raspberry Pi standing vertical on one of the long side, the preferred orientation for natural cooling*
 
 ## Heatsinks
 The installation of the heatsinks provided with the board can improve the cooling of some fan-less setups.
@@ -38,8 +41,7 @@ The heatsinks shall be installed with their fins and channels oriented verticall
 - Make sure that the **bottom row is installed close to the row above** and further away from the board edge.  
 - Make sure that all the **heatsinks fully cover their cooling pads** on the board.  
 
-
-![forced-cooling](../assets/img/phat2_heatsinks.png)
+![heatsinks](../assets/img/phat2_heatsinks.png)
 
 ## Forced cooling
 The most effective cooling is achieved using heatsinks and a fan to force the airflow in-between the printHAT 2 and the Raspberry Pi.
@@ -48,3 +50,6 @@ The airflow will carry away most of the heat right from where it is generated, w
 The orientation of the board is less critical with forced cooling than with convection only, however it's always better to install the board vertically, as already described above.
 
 The fan shall be installed so that the flow direction is upwards.  
+
+![forced-cooling](../assets/img/phat2_fan.png)
+*Fig.3 - Fan installed below the printHAT 2 and Raspberry Pi stack, pushing cool air up onto the boards*
