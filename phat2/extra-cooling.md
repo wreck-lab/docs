@@ -42,6 +42,7 @@ The heatsinks shall be installed with their fins and channels oriented verticall
 - Make sure that all the **heatsinks fully cover their cooling pads** on the board.  
 
 ![heatsinks](../assets/img/phat2_heatsinks.png)
+*Fig.2 - Heatsinks installed correctly spaced on the bottom side of the printHAT 2*
 
 ## Forced cooling
 The most effective cooling is achieved using heatsinks and a fan to force the airflow in-between the printHAT 2 and the Raspberry Pi.
