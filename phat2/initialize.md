@@ -15,7 +15,7 @@ During the first boot the wrecklabOS image takes care of installing all the requ
 3. Make sure the boot jumper is installed (factory default on a brand new printHAT 2) (Fig.3)
 4. Power the Raspberry Pi via the Micro USB port with a suitable [power supply](https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md){:target="_blank"}
 5. As soon as the Raspberry Pi power LED turns on, remove the printHAT 2 boot jumper
-6. The initialization will last few minutes taking care of the updates, if necessary, and of the rebooting at the end
+6. The initialization will last few minutes taking care of the software updates, if necessary.
 
 In a short while you should be able to [connect to the Raspberry Pi](network)
 

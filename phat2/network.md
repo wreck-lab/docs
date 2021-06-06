@@ -25,4 +25,6 @@ Password: raspberry
 
 Once you are connected to it you can reach OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
 
-After completing the OctoPrint wizard, it's time to shut it down and prepare to install the boards on your printer. Use the appropriate shutdown button on the top right of the Octoprint interface and wait until the Green Raspberry Pi LED shut down.
+After completing the OctoPrint wizard, it's time to shut it down and prepare to install the boards on your printer.
+> **IMPORTANT**  
+Always shutdown the system using the software shutdown button in the top right toolbar of the OctoPrint interface. Once done, wait until the green LED on  the Raspberry Pi LED turns off and stays off, before removing the power supply.
