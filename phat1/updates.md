@@ -4,25 +4,21 @@ parent: printHAT 1 Manual
 title: Updates
 nav_order: 9
 ---
+This page lists the possible ways to keep your system up to date with the latest software developments of the printHAT 1 ecosystem.
 
-## WrecklabOS release
-This method consists of downloading a wrecklabOS image file and prepare a new SD card.
+## Update via wrecklabOS release
+This method consists of downloading a full [wrecklabOS release](https://github.com/wreck-lab/wrecklabOS/releases) file and prepare a new SD card.  
+The software contained in the image is tested by our team and represent the most reliable source to get a full update of host, firmware and scripts.  
+To update, flash the SD card with latest image and follow the steps described in the [Initialize the board](initialize) section of this manual.
 
-TODO : missing the steps on how to flash the MCU
+> **IMPORTANT**  
+Remember to save your printer configuration file to bring it to the new system. You can use the OctoKlipper interface to copy the configuration and save it on your PC to restore it later.
 
-## Update script
-This method consists of running the wrecklab update script.
+## Update via Klipper repository (EXPERT USER)
+You can update the system to the latest Klipper without reinstalling the full wrecklabOS, pulling the latest version from the Klipper repository.
 
-TODO : add steps on how to run the script
-
-
-
-
-## Update via wrecklabOS image
-Before flashing the new image, you should save your configuration file. Using the OctoKlipper interface copy the content and save it on your PC to be able to restore it later. The software can be updated by flashing the SD card with latest image and following the steps described in the [Initialize the board](initialize) section of this manual.
-
-## Update via Klipper repository
-If you wish to update the software by pulling the latest version from the Klipper repository, be aware that there might regressions or bugs which could affect, or even damage, the board.
+> **DISCLAIMER**   
+Updating to latest Klipper you are installing software that has not been tested by Wrecklab. The software might have regressions or bugs which could affect, or even damage, the board.
 
 The Klipper repository in the Wrecklab image points directly at the official Klipper repository. Therefore, it is sufficient to follow these steps:
 
