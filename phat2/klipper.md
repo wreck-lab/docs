@@ -2,26 +2,26 @@
 layout: default
 parent: printHAT 2 Manual
 title: Configure Klipper
-nav_order: 7
+nav_order: 6
 has_children: false
 ---
 
-Klipper comes pre-configured for a cartesian printer. The configuration can be changed via the OctoPrint interface as follow:
+Klipper comes pre-configured for a generic cartesian printer and must be updated to match your particular machine. The configuration file can be easily edited via the OctoPrint interface:
 
 - connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
-- click the settings button
+- click the Settings button
 - click on the “OctoKlipper” plugin
 - click on the “Klipper Configuration” Tab
 
-The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/printHAT/tree/master/config){:target="_blank"}.
+> **NOTE**  
+The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/tree/devel/src/modules/klipper/filesystem/home/pi/klipper_config/config){:target="_blank"}.
+
 
 ![klipper-config](../assets/img/klipper-settings.png)
 
-After the configuration is completed, shutdown Raspberry Pi via the OctoPrint interface before installing it on the Printer.
 
-## Configuration File
-The configuration file contains few sections that need to be updated. Some sections are general and are described described below.
-Some others are specific to a your 3D printer architecture and are described in the next steps (pick the one that matches your printer type)
+## Printer type
+Some sections of the configuration file are specific to your 3D printer architecture and they are described in the [Configure printer](printer) section. Follow the link to the one that matches your printer type.  
 
 ## Extruder
 The extruder section contains also some basic parameters to be configured:
