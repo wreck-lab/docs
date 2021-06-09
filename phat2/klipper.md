@@ -2,7 +2,7 @@
 layout: default
 parent: printHAT 2 Manual
 title: Configure Klipper
-nav_order: 8
+nav_order: 7
 has_children: false
 ---
 
