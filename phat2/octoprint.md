@@ -7,7 +7,7 @@ has_children: false
 ---
 
 ## Printer Configuration
-Once Klipper has been configured correctly the OctoPrint printer profile needs to be adjusted accordingly. You can do so in the “Printer Profile” section of OctoPrint settings.
+The OctoPrint printer profile needs to be adjusted accordingly to your printer characteristics. You can do so in the “Printer Profile” section of the OctoPrint settings.
 
 ![octosettings](../assets/img/octo_settings.jpg)
 
