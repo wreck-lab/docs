@@ -6,7 +6,8 @@ nav_order: 5
 has_children: false
 ---
 
-Klipper comes pre-configured for a generic cartesian printer and must be adjusted to match your particular machine. The configuration file can be easily edited via the OctoPrint interface:
+Klipper is shipped pre-configured for a generic cartesian printer and must be adjusted to match your particular machine.  
+The Klipper configuration file can be easily edited via the OctoPrint interface:
 
 - connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
 - click the Settings button
@@ -21,7 +22,7 @@ The “printer.cfg” file, where the configuration parameters are stored, can b
 
 
 ## Printer type
-Some sections of the configuration file are specific to your 3D printer architecture and they are described in the [Configure printer](printer) section. Follow the link to the one that matches your printer type.  
+Some sections of the configuration file are specific to your particular 3D printer architecture and are described in the [Configure printer](printer) section. Follow the link to the page that matches your printer type.  
 
 ## Extruder
 The extruder section contains also some basic parameters to be configured:

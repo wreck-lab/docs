@@ -7,9 +7,9 @@ has_children: false
 ---
 
 ## OctoPrint Wizard
-Upon first connection the OctoPrint Wizard will guide you through some required configuration steps including your printer profile.  
+Upon first connection the OctoPrint Wizard will guide you through the required steps, including the configuration of your printer profile.  
 
-Once the wizard is completed, make sure to apply also the settings for [baudrate](#baudrate) and [error behaviour](#error) described below, before continuing with the [Klipper configuration](klipper).
+Once you've completed the wizard, make sure also to apply the settings for [baudrate](#baudrate) and [error behaviour](#error) described below, before continuing with the [Klipper configuration](klipper).
 
 ## <a name="baudrate"></a>Baudrate
 It might happen that during the first boot OctoPrint fails to detect the correct port speed, hence fails to connect. Before connecting make sure to select manually the baudrate of 250000.
