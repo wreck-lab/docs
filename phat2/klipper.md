@@ -12,7 +12,7 @@ The Klipper configuration file can be easily edited via the OctoPrint interface:
 - connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"} (only if not already connected)
 - click the Settings button
 - click on the “OctoKlipper” plugin
-- click on the “Klipper Configuration” Tab
+- click on the “Klipper Configuration” tab
 
 > **NOTE**  
 The “printer.cfg” file, where the configuration parameters are stored, can be edited line by line and/or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/tree/devel/src/modules/klipper/filesystem/home/pi/klipper_config/config){:target="_blank"}.
