@@ -10,7 +10,7 @@ has_children: false
 
 With the printHAT 2 fully wired on the printer it's now time to power it up.
 
-In a little while, you will be able to connected to OctoPrint as already done before, via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
+In a little while, you will be able to connecte to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}, as already done before.
 
 Once on the web interface you can then Connect to the printer.
 
