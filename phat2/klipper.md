@@ -9,7 +9,7 @@ has_children: false
 Klipper is shipped pre-configured for a generic cartesian printer and must be adjusted to match your particular machine.  
 The Klipper configuration file can be easily edited via the OctoPrint interface:
 
-- connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
+- connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"} (only if not already connected)
 - click the Settings button
 - click on the “OctoKlipper” plugin
 - click on the “Klipper Configuration” Tab
