@@ -2,11 +2,11 @@
 layout: default
 parent: printHAT 2 Manual
 title: Configure Klipper
-nav_order: 6
+nav_order: 5
 has_children: false
 ---
 
-Klipper comes pre-configured for a generic cartesian printer and must be updated to match your particular machine. The configuration file can be easily edited via the OctoPrint interface:
+Klipper comes pre-configured for a generic cartesian printer and must be adjusted to match your particular machine. The configuration file can be easily edited via the OctoPrint interface:
 
 - connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
 - click the Settings button
@@ -14,7 +14,7 @@ Klipper comes pre-configured for a generic cartesian printer and must be updated
 - click on the “Klipper Configuration” Tab
 
 > **NOTE**  
-The “printer.cfg” file, where the configuration parameters are stored, can be edited manually or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/tree/devel/src/modules/klipper/filesystem/home/pi/klipper_config/config){:target="_blank"}.
+The “printer.cfg” file, where the configuration parameters are stored, can be edited line by line and/or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/tree/devel/src/modules/klipper/filesystem/home/pi/klipper_config/config){:target="_blank"}.
 
 
 ![klipper-config](../assets/img/klipper-settings.png)

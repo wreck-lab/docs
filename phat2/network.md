@@ -6,7 +6,7 @@ nav_order: 3
 has_children: false
 ---
 
-The printHAT 2 can be connected to your home network via Wi-Fi or LAN. Upon start up if the Raspberry Pi can't find a known network to connect to, it will generate its own hot-spot.
+The printHAT 2 and the Raspberry Pi can be connected to your home network via Wi-Fi or LAN. Upon start up if the Raspberry Pi can't find a known network to connect to, it will generate its own hot-spot.
 > **IMPORTANT**   
 We recommend installing **Bonjour** to be able to easily find your OctoPrint instance without having to remember
 the IP address.
@@ -29,5 +29,3 @@ Password: raspberry
 ```
 
 Once you are connected to it you can reach OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
-
-After completing the OctoPrint wizard, it's time to shut it down and prepare to install the boards on your printer. Use the appropriate shutdown button on the top right of the Octoprint interface and wait until the Green Raspberry Pi LED shut down.
