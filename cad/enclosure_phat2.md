@@ -7,7 +7,7 @@ nav_order: 2
 
 # Enclosures for printHAT 2
 
-The printHAT 2 enclosure, as the printHAT 1's, is composed of two halves designed with 3D printability in mind (no supports required) and features two external mounting holes for easier installation on slotted modular frames (OpenBuilds, Misumi, Bosch).  
+The printHAT 2 enclosure, as the printHAT 1's, is composed of two halves designed with 3D printability in mind (Fig.1) and features two external mounting holes for easier installation on slotted modular frames (OpenBuilds, Misumi, Bosch).  
 As its predecessor, comes in two flavours, one intended for natural cooling and the other with support for a cooling fan.
 
 | Natural cooling  | Forced cooling |
