@@ -12,7 +12,7 @@ As its predecessor, comes in two flavours, one intended for natural cooling and 
 
 | Natural cooling  | Forced cooling |
 |:-------------------------:|:-------:|
-|![alt](../assets/img/case_phat2_rpi3_nofan.png) | ![alt](../assets/img/case_phat2_rpi3_fan.png) |
+|![alt](../assets/img/case_phat2_rpi4_nofan.png) | ![alt](../assets/img/case_phat2_rpi4_fan.png) |
 |[Download (top+bottom)](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%202/cad/enclosures){:target="_blank"} | [Download (top+bottom_fan)](https://github.com/wreck-lab/wrecklabOS/tree/devel/printHAT%202/cad/enclosures){:target="_blank"} |
 
 ![buildplate](../assets/img/phat2_case_print_orientation.png)
