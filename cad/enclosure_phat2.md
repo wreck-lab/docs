@@ -47,7 +47,13 @@ If you're assembling the forced cooling version mount the fan using four M3x10 s
 
 Slide the enclosure top part onto the assembly and secure it using the other two M3x30 screws and M3 nuts to together.  
 
+![assembly](../assets/img/case_phat2_assembly.png)
+*Fig.1 - Assembled enclosure and installation of the cooling fan.*
+
 > **BOOT JUMPER**  
 Make sure that the boot jumper has been removed from the board.
 
 Use the M5x8 screws and T-nuts (Fig. ), to fix the enclosure onto the frame rail.
+
+![frame](../assets/img/case_phat2_frame.png)
+*Fig.1 - Installation on the modular frame.*
