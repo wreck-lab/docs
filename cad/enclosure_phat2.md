@@ -36,7 +36,7 @@ We recommend the use of one of the following fans:
 * [Noctua NF-A4x20 5V](https://noctua.at/en/products/fan/nf-a4x20-5v), 40x40x20 mm size, 5V power supply, for even greater flow
 
 # Installation
-Start with the assembled printHAT 2 and Raspberry Pi, and slide it into  the bottom part of the enclosure. The enclosure features internal slots to support the boards with no need for additional stand-off (Fig. ).  
+Start with the assembled printHAT 2 and Raspberry Pi, and slide it into  the bottom part of the enclosure. The enclosure features internal slots to support the boards with no need for additional stand-off.  
 Use two M3x30 screws and M3 nuts to secure boards and enclosure bottom part together.
 
 > **ALIGNMENT**   
@@ -45,15 +45,15 @@ Make sure the boards slide all the way in, so that the mounting holes are aligne
 > **COOLING**  
 If you're assembling the forced cooling version mount the fan using four M3x10 screws (Fig.3).
 
-Slide the enclosure top part onto the assembly and secure it using the other two M3x30 screws and M3 nuts to together.  
+Slide the enclosure top part onto the assembly and secure it using the other two M3x30 screws and M3 nuts to together (Fig. 2)
 
 ![assembly](../assets/img/case_phat2_assembly.png)
-*Fig.1 - Assembled enclosure and installation of the cooling fan.*
+*Fig.2 - Assembled enclosure and installation of the cooling fan.*
 
 > **BOOT JUMPER**  
 Make sure that the boot jumper has been removed from the board.
 
-Use the M5x8 screws and T-nuts (Fig. ), to fix the enclosure onto the frame rail.
+Use the M5x8 screws and T-nuts to fix the enclosure onto the frame rail (Fig.3).
 
 ![frame](../assets/img/case_phat2_frame.png)
-*Fig.1 - Installation on the modular frame.*
+*Fig.3 - Installation on the modular frame.*
