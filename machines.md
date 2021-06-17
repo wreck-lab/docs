@@ -18,7 +18,7 @@ Then remove the original control board and screen (not needed anymore) and rewir
 Connect the **stepper motors** to S1-S4 using the original Ender cables, but removing the shroud from the board connectors.  
 Connect the **thermistors** to J7-J8 using the original cables, but removing the shroud from the board connectors.  
 Connect the **endstops** to J10-J12 replacing the original cable connectors for plain female headers, and connecting then SIGNAL and GND pins as shown in (Fig.2).  
-Connect the **hotend fan** to J3 using the original
+Connect the **hotend fan** to J3 using the original lead wires  
 Connect the **print cooling fan** to J6 using the original cable and connector to J6.
 
 > **POWER CABLES**  
