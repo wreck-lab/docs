@@ -16,5 +16,4 @@ Continue to one of the following channels to find manuals, tutorials or support 
 
 [Github](https://github.com/wreck-lab){: .btn }{:target="_blank"}
 [YouTube](https://www.youtube.com/channel/UCr8c4zjJT7NnsBhNiCOiJDA){: .btn }{:target="_blank"}
-
 [Discourse](http://discourse.wrecklab.com/){: .btn }{:target="_blank"}
