@@ -15,7 +15,7 @@ and install it from [here](https://support.apple.com/kb/DL999?locale=en_US&viewl
 
 > **IMPORTANT**  
 The Bonjour networking protocol sends and receives network packets on UDP port 5353.The Bonjour installer will configure the Windows firewall appropriately during installation on supported systems, but sometimes a reboot of the Windows machine might be required.  
-If, after reboot, you can't connect, most likely the firewall is still misconfigured for the Bonjour service and you have to fall back to use the IP **192.168.1.50** in place of **wrecklab.local**.
+If, after reboot, you can't connect, most likely the firewall is still misconfigured for the Bonjour service and you have to fall back to use the IP **192.168.50.1** in place of **wrecklab.local**.
 
 ## Wifi Or Ethernet
 If the wi-fi details have been entered in the wpa-supplicant ([details](https://community.octoprint.org/t/wifi-setup-and-troubleshooting/184)) or the Raspberry Pi has been connected with an Ethernet cable, then it can be reached via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
