@@ -7,19 +7,24 @@ has_children: false
 ---
 
 Klipper is shipped pre-configured for a generic cartesian printer and must be adjusted to match your particular machine.  
-The Klipper configuration file can be easily edited via the OctoPrint interface:
+The Klipper configuration file can be easily edited via the OctoPrint or Mainsail interface:
 
-- connect to OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"} (only if not already connected)
-- click the Settings button
-- click on the “OctoKlipper” plugin
-- click on the “Klipper Configuration” tab
+- connect to [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"} (only if not already connected)
+- **OctoPrint**: click the Settings button, select “OctoKlipper” plugin, then select “Klipper Configuration” tab to open the configuration editor
+- **Mainsail**: click the Setting button on the left panel, then click on the printer.cfg file in the file browser to open the editor
 
 > **NOTE**  
 The “printer.cfg” file, where the configuration parameters are stored, can be edited line by line and/or copy/paste the content of one of the [available templates](https://github.com/wreck-lab/wrecklabOS/tree/devel/src/modules/klipper/filesystem/home/pi/klipper_config/config){:target="_blank"}.
 
 
-![klipper-config](../assets/img/klipper-settings.png)
+![klipper-config](../assets/img/klipper-settings.png)   
+*Fig.1 - OctoPrint configuration editor*
 
+![mainsailsettings](../assets/img/phat2_mainsail_settings.png)   
+*Fig.2 - Mainsail setting page*
+
+![mainsailsettings2](../assets/img/phat2_mainsail_settings2.png)   
+*Fig.3 - Mainsail configuration editor*
 
 ## Printer type
 Some sections of the configuration file are specific to your particular 3D printer architecture and are described in the [Configure printer](printer) section. Follow the link to the page that matches your printer type.  
