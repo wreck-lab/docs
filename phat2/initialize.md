@@ -23,8 +23,10 @@ Connect the printHAT 2 to the Raspberry Pi with the following steps:
 > **IMORTANT**  
 As soon as the Raspberry Pi power LED turns on, remove the printHAT 2 boot jumper
 
-The initialization will continue in the background, lasting few minutes and taking care of all the software updates.  
-In a short while you should be able to [connect to the Raspberry Pi](network)
+The initialization will continue in the background, lasting few minutes and taking care of all the software updates. In a short while you should be able to [connect to the Raspberry Pi](network)
+
+> **IMORTANT**  
+On the Raspberry Pi Zero the initialization process is very slow due to the reduced processing power of the board. Wait at least 5 minutes before continuing, to make sure the procedure is complete.
 
 ![phat2_assembly](../assets/img/phat2_rpi_assembly.png)
 *Fig.1 - printHAT 2 and Raspberry Pi stack alignment*
