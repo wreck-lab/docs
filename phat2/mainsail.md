@@ -14,7 +14,3 @@ To finalize the configuration, click the Setting button on the left panel and th
 ![mainsailsettings](../assets/img/phat2_mainsail_settings.png)   
 
 ![mainsailsettings2](../assets/img/phat2_mainsail_settings2.png)   
-
-Once the edit is complete, save the file and the software will take care of restarting Klipper to make the changes effective. Upon restart you should see a fully populated and functional dashboard.
-
- ![mainsaildash](../assets/img/phat2_mainsail_dashboard.png)  
