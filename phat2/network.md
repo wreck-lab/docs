@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: printHAT 2 Manual
-title: Connect to OctoPrint
+title: Connect to network
 nav_order: 3
 has_children: false
 ---
@@ -28,4 +28,4 @@ SSID: wrecklab
 Password: raspberry
 ```
 
-Once you are connected to it you can reach OctoPrint via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"}
+Once you are connected to your network you can reach the printing software via [http://wrecklab.local/](http://wrecklab.local/){:target="_blank"} following the instructions for [OctoPrint](octoprint) or [Mainsail](mainsail).
