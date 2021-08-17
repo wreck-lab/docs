@@ -23,7 +23,7 @@ Once the probe is wired to the printHAT, you can move on to modify the KLipper c
 - add the [bltouch] section
 ```py
 [bltouch]
-sensor_pin:
+sensor_pin: PA4
 control_pin: PA8
 ```
 
